@@ -1,0 +1,19 @@
+{
+  "name": "first-backend",
+  "version": "1.0.0",
+  "description": "a basic my first backend app to deploy ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "luffy"
+  ],
+  "author": "Tanmay Warthe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
